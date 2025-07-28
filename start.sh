@@ -1,2 +1,1 @@
-#!/bin/bash
-python humanitarian_bot.py
+#!/bin/bash python humanitarian_bot.py
