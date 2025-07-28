@@ -1,0 +1,8 @@
+services:
+  - type: worker
+    name: humanitarian-bot
+    env: python
+    buildCommand: ""
+    startCommand: "bash start.sh"
+    region: oregon
+    plan: free
