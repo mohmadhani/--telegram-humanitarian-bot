@@ -121,7 +121,7 @@ async def show_results(update: Update, context: ContextTypes.DEFAULT_TYPE):
     return ConversationHandler.END
 
 # إعداد التطبيق
-app = ApplicationBuilder().token("توكن البوت").build()
+app = ApplicationBuilder().token("7012021975:AAGR-MKld84_GB-g-9dI6tcZRBV-JKU3X50").build()
 
 # إعداد المحادثة
 conv_handler = ConversationHandler(
